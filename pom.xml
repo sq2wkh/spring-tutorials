@@ -12,6 +12,7 @@
     <module>hello-spring</module>
     <module>hello-spring-singleton</module>
     <module>hello-spring-prototype</module>
+    <module>hello-spring-bean-lifecycle</module>
 </modules>
 
     <dependencies>
