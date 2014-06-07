@@ -9,7 +9,7 @@
     <packaging>pom</packaging>
     <version>1.0</version>
 <modules>
-    <module>hello-spring-first</module>
+    <module>hello-spring</module>
     <module>hello-spring-singleton</module>
     <module>hello-spring-prototype</module>
 </modules>
