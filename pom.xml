@@ -11,6 +11,7 @@
 <modules>
     <module>hello-spring-first</module>
     <module>hello-spring-singleton</module>
+    <module>hello-spring-prototype</module>
 </modules>
 
     <dependencies>
