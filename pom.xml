@@ -13,6 +13,7 @@
     <module>hello-spring-singleton</module>
     <module>hello-spring-prototype</module>
     <module>hello-spring-bean-lifecycle</module>
+    <module>hello-spring-bean-postprocessor</module>
 </modules>
 
     <dependencies>
