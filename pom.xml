@@ -16,6 +16,7 @@
     <module>hello-spring-bean-postprocessor</module>
     <module>hello-spring-bean-definitioninheritance</module>
     <module>hello-spring-dependency-injection</module>
+    <module>hello-spring-collection-injection</module>
 </modules>
 
     <dependencies>

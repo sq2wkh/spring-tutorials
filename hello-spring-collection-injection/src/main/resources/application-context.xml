@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+    <bean id="javaCollections" class="pl.sq2wkh.spring.tutorial.collectioninjection.Collections">
+
+        <property name="list">
+            <list>
+                <value>Poland</value>
+                <value>Germany</value>
+                <value>USA</value>
+                <value>USA</value>
+            </list>
+        </property>
+
+        <property name="set">
+            <set>
+                <value>Poland</value>
+                <value>Germany</value>
+                <value>USA</value>
+                <value>USA</value>
+            </set>
+        </property>
+
+        <property name="map">
+            <map>
+                <entry key="1" value="Poland"/>
+                <entry key="2" value="Germany"/>
+                <entry key="3" value="USA"/>
+                <entry key="4" value="USA"/>
+            </map>
+        </property>
+
+        <property name="properties">
+            <props>
+                <prop key="one">Poland</prop>
+                <prop key="two">Germany</prop>
+                <prop key="three">USA</prop>
+                <prop key="four">USA</prop>
+            </props>
+        </property>
+
+    </bean>
+
+</beans>
