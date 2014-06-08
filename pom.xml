@@ -19,6 +19,7 @@
     <module>hello-spring-collection-injection</module>
     <module>hello-spring-javabased-configuration</module>
     <module>hello-spring-event-handling</module>
+    <module>hello-spring-custom-event</module>
 </modules>
 
     <dependencies>
