@@ -1,6 +1,6 @@
 spring-tutorials
 ================
 
-tutorials from tutorialspoint.com
+spring tutorials from tutorialspoint.com
 
 
