@@ -18,6 +18,7 @@
     <module>hello-spring-dependency-injection</module>
     <module>hello-spring-collection-injection</module>
     <module>hello-spring-javabased-configuration</module>
+    <module>hello-spring-event-handling</module>
 </modules>
 
     <dependencies>
