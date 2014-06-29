@@ -36,7 +36,7 @@ public class SimpleSpringClass {
     }
 
     public void checkSomeValue2Length(){
-         if(someValue2.length() > 10){
+         if(someValue2.length() > 5){
              throw new IllegalArgumentException("Too long");
          }
     }
